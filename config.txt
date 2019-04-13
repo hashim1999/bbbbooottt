@@ -1,0 +1,6 @@
+﻿token=DJN6juxtpwiB6Ox5P-2Vy48byGXl0jKQ 
+owner=467193057612398593 
+prefix= H
+game= dwexxxxr
+stayinchannel=true
+songinstatus=true 
